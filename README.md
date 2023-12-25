@@ -15,11 +15,9 @@ Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and soft
 ## Featured Projects
 
 ### Project 1: [ZonaCode](https://github.com/CosmeNicolas/zona-code)
-Brief description of the project and technologies used.
+
 
 ### Project 2: [RollingBank](https://github.com/CosmeNicolas/rollingbank)
-Brief description of the project and technologies used.
-
 
 
 ## Contact
