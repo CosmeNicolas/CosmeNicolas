@@ -2,7 +2,7 @@
   <h1>Hi, I'm Cosme Nicolas 👋 </h1>
 </div>
 
-<img src="banner-ficha.gif">
+<img src="banner-animado.gif">
 
 
 ## Welcome to My GitHub Profile
