@@ -19,10 +19,12 @@ Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and soft
 
 ## Featured Projects
 
-### Project 1: [ZonaCode](https://github.com/CosmeNicolas/zona-code)
-
+### Project 1: [TurnoVeterinaria](https://github.com/CosmeNicolas/TurnosVeterinaria)
 
 ### Project 2: [RollingBank](https://github.com/CosmeNicolas/rollingbank)
+
+### Project 3: [TucuNews](https://github.com/CosmeNicolas/tucuNewsCategoryCountry))
+
 
 
 ## Contact
