@@ -23,7 +23,7 @@ Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and soft
 
 ### Project 2: [RollingBank](https://github.com/CosmeNicolas/rollingbank)
 
-### Project 3: [TucuNews](https://github.com/CosmeNicolas/tucuNewsCategoryCountry))
+### Project 3: [TucuNews](https://github.com/CosmeNicolas/tucuNewsCategoryCountry)
 
 
 
