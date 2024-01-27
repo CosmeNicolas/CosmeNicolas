@@ -26,7 +26,6 @@ Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and soft
 
 ### Project 4: [SuperHeroe](https://github.com/CosmeNicolas/SuperHeroReact)
 
-
 ## Contact
 
 If you'd like to know more about me or collaborate on any projects, feel free to reach out!
