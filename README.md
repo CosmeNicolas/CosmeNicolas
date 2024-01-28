@@ -34,4 +34,4 @@ If you'd like to know more about me or collaborate on any projects, feel free to
 - **LinkedIn:** [CosmeNicolas](https://www.linkedin.com/in/cosmenicolas/)
 - **Website/Portfolio:** [PortfolioSoccer](https://vercel.com/cosmenicolas/portfolio-soccer-3gus)
 
-Thanks for visiting my profile! 🤙👋
+Thanks for visiting my profile! 🤙
