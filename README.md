@@ -8,21 +8,21 @@
 Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and software development. I love working on challenging projects and learning new technologies. Here are some details about me:
 
 ## My Skills
-- **Programming Languages:** JavaScript 🤙
-- **Frameworks:** React, Node.js
-- **Databases:** MongoDB
-- **Version Control Tools:** Git, GitHub
-- **Other skills:** Web Development
 
+![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) | ![Express](https://img.icons8.com/50/000000/express-js.png) | ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
+![HTML5](https://img.icons8.com/color/50/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/50/000000/css3.png) | ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png) | ![React](https://img.icons8.com/color/50/000000/react-native.png) | ![npm](https://img.icons8.com/color/50/000000/npm.png)
 ## Featured Projects
 
-### Project 1: [TurnoVeterinaria](https://github.com/CosmeNicolas/TurnosVeterinaria)
+### Project 1: [Hotel Rolling-Resort](https://app.netlify.com/sites/rolling-resort/overview)
 
-### Project 2: [RollingBank](https://github.com/CosmeNicolas/rollingbank)
+### Project 2: [Cookinando - BlogDeCocina](https://github.com/CosmeNicolas/cookinando-blogDeCocina)
 
-### Project 3: [TucuNews](https://github.com/CosmeNicolas/tucuNewsCategoryCountry)
+### Project 3: [TurnoVeterinaria](https://github.com/CosmeNicolas/TurnosVeterinaria)
 
-### Project 4: [SuperHeroe](https://github.com/CosmeNicolas/SuperHeroReact)
+### Project 4: [TucuNews](https://github.com/CosmeNicolas/tucuNewsCategoryCountry)
+
+### Project 5: [PaletaDeColores-reactColors](https://github.com/CosmeNicolas/react-colors))
+
 
 ## Contact
 
