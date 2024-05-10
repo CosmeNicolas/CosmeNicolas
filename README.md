@@ -13,7 +13,7 @@ Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and soft
 ![HTML5](https://img.icons8.com/color/50/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/50/000000/css3.png) | ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png) | ![React](https://img.icons8.com/color/50/000000/react-native.png) | ![npm](https://img.icons8.com/color/50/000000/npm.png)
 ## Featured Projects
 
-### Project 1: [Hotel Rolling-Resort-FrontEnd](https://github.com/CosmeNicolas/ProyectoHotelFrontEnd) - [[Hotel Rolling-ResortBackEnd](https://github.com/CosmeNicolas/proyectoHotelBackEnd]
+### Project 1: [Hotel Rolling-Resort-FrontEnd](https://github.com/CosmeNicolas/ProyectoHotelFrontEnd) - [Hotel Rolling-ResortBackEnd](https://github.com/CosmeNicolas/proyectoHotelBackEnd]
 
 ### Project 2: [Cookinando - BlogDeCocina](https://github.com/CosmeNicolas/cookinando-blogDeCocina) - [BackEndBlogDeCocina](https://github.com/CosmeNicolas/recetasBackEnd)
 
