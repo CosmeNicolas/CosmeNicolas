@@ -11,8 +11,8 @@ Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and soft
 
 ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)  ![Express](https://img.icons8.com/50/000000/express-js.png)  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
 ![HTML5](https://img.icons8.com/color/50/000000/html-5.png)  ![CSS3](https://img.icons8.com/color/50/000000/css3.png)  ![Tailwind](https://img.icons8.com/color/48/tailwindcss.png)  ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)  ![React](https://img.icons8.com/color/50/000000/react-native.png)  ![npm](https://img.icons8.com/color/50/000000/npm.png)
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![MySQL](https://img.icons8.com/?size=100&id=39855&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
+![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
 
 ## Featured Projects
 
