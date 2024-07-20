@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi, I'm Cosme Nicolas 👨‍💻</h1>
+  <h1>Hi, I'm Cosme Nicolas Mas 👨‍💻</h1>
 </div>
 
 <img src="banner-animado.gif">
