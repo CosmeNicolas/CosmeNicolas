@@ -5,7 +5,7 @@
 <img src="banner-animado.gif">
 
 ## Welcome to My GitHub Profile
-Hello everyone!👋 I'm Mas Cosme Nicolas , passionate about technology and software development. I love working on challenging projects and learning new technologies. Here are some details about me:
+Hello everyone!👋, I'm Mas Cosme Nicolas , passionate about technology and software development. I love working on challenging projects and learning new technologies. Here are some details about me:
 
 ## My Skills
 
