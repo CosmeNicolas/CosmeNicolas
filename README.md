@@ -12,11 +12,13 @@ Let's connect and create something amazing together! 🚀
 
 ## My Skills
 
-![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)  ![Express](https://img.icons8.com/50/000000/express-js.png)  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
+![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)  ![Express](https://img.icons8.com/50/ffffff/express-js.png)  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
 ![HTML5](https://img.icons8.com/color/50/000000/html-5.png)  ![CSS3](https://img.icons8.com/color/50/000000/css3.png)  ![Tailwind](https://img.icons8.com/color/48/tailwindcss.png)  ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)  ![React](https://img.icons8.com/color/50/000000/react-native.png)  ![npm](https://img.icons8.com/color/50/000000/npm.png)
 ![Python](https://img.icons8.com/?size=50&id=l75OEUJkPAk4&format=png&color=000000)
 ![MySQL](https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000)
-![Flask](https://img.icons8.com/?size=50&id=MHcMYTljfKOr&format=png&color=000000)
+![Flask](https://img.icons8.com/?size=50&id=MHcMYTljfKOr&format=png&color=ffffff)
+![Typescript](https://img.icons8.com/?size=50&id=nCj4PvnCO0tZ&format=png&color=000000)
+![Expo](https://img.icons8.com/?size=50&id=N9liZ1WtT44z&format=png&color=ffffff)
 
 ## Featured Projects
 
