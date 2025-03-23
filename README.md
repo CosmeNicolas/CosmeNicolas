@@ -5,7 +5,10 @@
 <img src="banner-animado.gif">
 
 ## Welcome to My GitHub Profile
-Hello everyone!👋, I'm Mas Cosme Nicolas , passionate about technology and software development. I love working on challenging projects and learning new technologies. Here are some details about me:
+Hello everyone! 👋
+I'm Mas Cosme Nicolás, a passionate technology enthusiast and software developer. I thrive on tackling challenging projects and continuously learning about new technologies. Currently, I'm working as a Data Analyst at Naturgy Argentina, where I leverage data to drive insights and decision-making. In my free time, I enjoy working as a freelancer, taking on exciting projects that allow me to expand my skills and contribute to innovative solutions.
+
+Let's connect and create something amazing together! 🚀
 
 ## My Skills
 
